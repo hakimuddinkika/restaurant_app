@@ -10,7 +10,7 @@ const Hero = () => {
                 Everything<br/> 
                 is better <br />
                 with a <span className='text-primary'>Burger</span></h1>
-            <p className='my-4 text-stone-400 text-sm'>
+            <p className='my-6 text-stone-400 text-sm'>
                 Burgers are the best lunch we can have. It is best when joined with the Beef Patty
             </p>
             <div className='flex gap-4 text-sm'>
